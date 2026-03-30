@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://via.placeholder.com/1200x300/1E3A8A/FFFFFF?text=DFS+Tienda" alt="DFS Tienda Header" width="100%">
+<img src="http://imgfz.com/i/MyRuTrL.png" alt="DFS Tienda Header" width="100%">
 
 <br>
 
